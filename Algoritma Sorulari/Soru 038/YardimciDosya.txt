@@ -1,0 +1,14 @@
+1.oyuncu  		2.oyunuc  		3.oyuncu  		4.oyuncu
+Sinek Alti 		Karo  Dort 		Sinek Dort 		Maca  Iki  
+Sinek Sekiz		Kupa Yedi 		Maca  Kiral		Sinek Uc   
+Sinek Dokuz		Maca  Alti 		Maca  Dort 		Karo  Iki  
+Kupa Bes  		Maca  Bes  		Karo  Kiz  		Sinek Bes  
+Kupa Uc   		Kupa As   		Sinek On   		Sinek Kiral
+Karo  Alti 		Karo  Bes  		Kupa Alti 		Karo  As   
+Karo  Sekiz		Karo  Kiral		Kupa Kiz  		Maca  Yedi 
+Kupa Dokuz		Karo  Genç 		Sinek Kiz  		Maca  Kiz  
+Karo  Dokuz		Sinek Yedi 		Kupa Dort 		Sinek As   
+Kupa Kiral		Karo  Yedi 		Sinek Iki  		Maca  On   
+Sinek Genç 		Kupa Genç 		Maca  Genç 		Maca  Sekiz
+Kupa Sekiz		Maca  Dokuz		Kupa On   		Maca  Uc   
+Karo  On   		Kupa Iki  		Karo  Uc   		Maca  As   
