@@ -1,0 +1,16 @@
+Mustafa Data
+Ahmed Matematik
+Mehmet Kimya
+Ali Fizik
+Veli Biyoloji
+Ahmed Algo
+Mehmet Matematik
+Ayse Programlama
+Fatma VeriYapilari
+Mustafa Algoritma
+Ahmed Fizik
+Mehmet Biyoloji
+Ali Matematik
+Veli Kimya
+Ayse Veritabani
+Fatma IsletimSistemi
